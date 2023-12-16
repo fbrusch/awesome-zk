@@ -242,6 +242,7 @@ More specific to ZK:
 - [ZeroBiometrics: Privacy Preserving and Data Protection Face Authentication](https://zerobiometrics.com/)
 - [zCloak: Privacy-first DID and verifiable computation infrastructure](https://zcloak.network/#/)
 - [Everest ID: Your global everything account](https://everest.org/)
+- [ZK-Email: anonymous verification of email signatures](https://github.com/zkemail/zk-email-verify)
 
 #### Wallet
 
